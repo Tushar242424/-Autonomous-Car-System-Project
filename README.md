@@ -81,5 +81,5 @@ This project focuses on developing an Autonomous Car System that leverages Machi
 
 The project successfully integrates ML and IoT technologies to create an autonomous vehicle capable of navigating diverse tracks. It demonstrates the potential for efficient and reliable self-driving solutions, showcasing practical applications and addressing challenges in autonomous driving systems.
 
-##Some Snapshots of Project:
+Some Snapshots of Project:
 ![image](https://github.com/user-attachments/assets/fb4f6fe7-4511-4a67-91d8-f900fef2d5a1)
